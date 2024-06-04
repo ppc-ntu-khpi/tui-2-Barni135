@@ -1,5 +1,5 @@
 # UI Lab 2 
-![](terminal-icon.png)
+![](1.png)
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
